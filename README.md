@@ -36,8 +36,63 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Capitula siue constitutiones ecclesiasticæ per Archiepiscopum, episcopos, & reliquum clerum Cantuari
+CAPITVLA SIVE
+CONSTITVTIONES
+Ecclesiasticae per Archiepiscopum,
+Episcopos, & reliquum Clerum Cantuar
 #####Body#####
+
+1. Vt homines idonei ad sacros ordines, & Beneficia
+(vti vocant) ecclesiastica admittantur.
+
+1. De Beneficiorum pluralitate cohibenda.
+
+1. Vt Beneficiati in suis Beneficijs Curatis hospitalitatem
+exerceant.
+
+1. Vt Deeani & Cononici in Ecclesijs Cathedralibus
+suis vicibus conciones habeant.
+
+1. De moderandis indulgentijs pro celebratione matrimonij
+absque trina bannorum denunciatione.
+
+1. De Sententijs diuortij non temerè ferendis.
+
+1. De excessibus circa excommunicationem reformandis.
+
+1. De Recusantibus, & alijs excommunicatis publicè
+denunciandis.
+
+1. De moderanda solennis poenitentiae commutatione.
+
+1. De feodis quae Officiarijs ecclesiasticis & eorum
+ministris debentur.
+
+1. De excessibus Apparitorum reformandis.
+
+1. De Registris in Ecclesijs saluae Custodiae committendis.
+
+1. ❧EXEMPLARIA
+Licentiae seu facultatis
+matrimonij absque trina Bannorum
+promulgatione celebrandi in singulis
+Episcopatibus obseruanda.
+
+    _ ❧LICENTIA VBI
+vterque vel alter contrahentiùm
+sub parentum vel gubernatorum
+potestate existit.
+
+1. ❧THE COPY OF
+a Bond to be taken vpon
+euery license of marriage to be
+granted before the granting thereof.
+
+    _ ❧THE OBLIGATION
+to be in the vsuall forme in such
+competent summe, as considering the estate of
+the parties to be married shalbe by him who hath
+warrant to grant license, thought conuenient.
 
 **Types of content**
 
