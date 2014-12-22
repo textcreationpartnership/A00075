@@ -36,10 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-CAPITVLA SIVE
-CONSTITVTIONES
-Ecclesiasticae per Archiepiscopum,
-Episcopos, & reliquum Clerum Cantuar
+
 #####Body#####
 
 1. Vt homines idonei ad sacros ordines, & Beneficia
